@@ -1,3 +1,9 @@
 [submodule "themes/lightbi-hugo"]
 	path = themes/lightbi-hugo
 	url = https://github.com/binokochumolvarghese/lightbi-hugo
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/lightbi"]
+	path = themes/lightbi
+	url = https://github.com/chowowing/lightbi-hugo
