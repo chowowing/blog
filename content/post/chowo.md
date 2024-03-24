@@ -6,8 +6,8 @@ Description  : "Life is lemons"
 featured: true
 ---
 
-# sussu Heading
-## Sub- sussu heading
+# sussy Heading
+## Sub- sussy heading
 ### Ultra sussy heading
 
 
