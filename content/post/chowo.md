@@ -28,11 +28,3 @@ featured: true
 {{< youtube tVIS9VZBExo >}}
 
 
-
----
-
-{{<spotify 3xtiXNDbSKxy20I7D6vFUg >}}
-
----
-
-{{< insta C43G2hnODHl >}}
