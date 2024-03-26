@@ -1,5 +1,5 @@
 ---
-title: NEW BALANCE
+title: WHAT'S UP WITH 
 date: 2024-03-26
 tags: ["hugo","blog"]
 Description  : "testing"
@@ -10,3 +10,4 @@ Spent like weeks to look for a pair of shoes, not too attention seeking but also
 
 ![shoes](https://i.imgur.com/Ab01Crc.jpeg)
 
+Speaking of attention seeking/seeker, I want to understand the trend of crocs shoes: 
