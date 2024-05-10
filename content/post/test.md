@@ -6,7 +6,7 @@ Description  : Q&A Questions for Getting to Know Someone
 featured: true
 ---
 
-**### Questions for Small Groups:** (from https://slideswith.com/blog/best-q-a-questions)
+### Questions for Small Groups: (from https://slideswith.com/blog/best-q-a-questions)
 
 Q1: What do you miss most about working in the office?
 
