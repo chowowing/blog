@@ -6,9 +6,7 @@ Description  : Q&A Questions for Getting to Know Someone
 featured: true
 ---
 
-### Questions for Small Groups: (from https://slideswith.com/blog/best-q-a-questions)
-[(Link)](https://slideswith.com/blog/best-q-a-questions)
-[Questions for Small Groups](https://slideswith.com/blog/best-q-a-questions)
+### Questions for Small Groups [(Link)](https://slideswith.com/blog/best-q-a-questions): 
 
 Q1: What do you miss most about working in the office?
 
@@ -43,7 +41,7 @@ Q8: Are you a morning bird or a night owl?
     Could be both. But more like a night owl.
     
     
-### Questions for Large Groups: 
+### Questions for Large Groups [(Link)](https://slideswith.com/blog/best-q-a-questions): 
 
 Q1: Do you prefer coffee or tea?
 
