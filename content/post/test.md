@@ -113,7 +113,7 @@ Q1: What would you choose if you had to choose one meal to eat for the rest of y
 
 Q2: If you could choose a superpower, what would you pick?
 
-    Harry Potter's broom. I first wrote "teleport" but I want to enjoy the view during travels as well. Then I wrote "bird" but then realised it has speed limit. So a magic broom will do cause I get to control everything. 
+    Harry Potter's broom. I first wrote "teleport" for efficient travels since I have limited funds and time, but I want to enjoy the view along the way during travels.  Then I wrote "bird" but then realised it has speed limit. So a magic broom will do cause I get to control everything. 
     
 Q3: What’s your favorite holiday?
 
