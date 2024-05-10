@@ -2,7 +2,7 @@
 title: 
 date: 2024-05-10
 tags: ["hugo","blog"]
-Description  : Im daijobu.
+Description  : 
 featured: true
 ---
 
