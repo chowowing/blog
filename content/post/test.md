@@ -41,7 +41,7 @@ Q8: Are you a morning bird or a night owl?
     Could be both. But more like a night owl.
     
     
-**### Questions for Large Groups:** (from https://slideswith.com/blog/best-q-a-questions)
+### Questions for Large Groups: (from https://slideswith.com/blog/best-q-a-questions)
 
 Q1: Do you prefer coffee or tea?
 
@@ -68,7 +68,7 @@ Q6: Would you rather live in a cabin in the woods, a penthouse in the city, or a
     As a city girl, Penthouse 100%. Make sure they have shopping malls (with free WiFi) and supermarkets and public transports near by too.
     
 
-**### Funny Questions:** (from https://slideswith.com/blog/best-q-a-questions)
+### Funny Questions: (from https://slideswith.com/blog/best-q-a-questions)
 
 Q1: What emoji could you not live without?
 
@@ -106,9 +106,37 @@ Q9: What place, even if you don’t live there now, has always felt like your ho
 
     Book store or cafe that has great environment and free Wifi.
 
-**### Getting to Know You Questions** (from https://www.betterup.com/blog/questions-to-ask-to-get-to-know-someone)
+### Getting to Know You Questions: (from https://www.betterup.com/blog/questions-to-ask-to-get-to-know-someone)
 
+Q1: What would you choose if you had to choose one meal to eat for the rest of your life? 
 
+    Anything with potato!
+
+Q2: If you could choose a superpower, what would you pick?
+
+    Harry Potter's broom.
+    
+Q3: What’s your favorite holiday?
+
+    I have no religion but I like Christmas cause we have holidays and it has cozy vibe.
+
+Q4: When was the last time you went to a concert?
+
+    April 1 2024. I thought it was a scam at first but it's not April Fools but one of the best concert I've ever had.
+    
+Q5: Do you have a favorite sport?
+
+    Basketball. It's so satisfying to watch it "plop" perfectly (I'm not good at it tho).
+    
+Q6: What’s the best surprise you’ve ever received?
+
+    I got an "A" for the course that I didn't know I would enjoy. The professor was awesome as well. 
+    
+Q7: What’s the most embarrassing moment you’ve ever experienced?
+
+    First time met this person, we were talk and walking. Out of the blue they held my hand, then I said I had to drink water. After a while, they held my hand again. We never meet again :D
+
+Q8: 
     
 ![shoes](https://i.imgur.com/Ab01Crc.jpeg)
 
