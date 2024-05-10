@@ -114,7 +114,7 @@ Q1: What would you choose if you had to choose one meal to eat for the rest of y
 
 Q2: If you could choose a superpower, what would you pick?
 
-    Harry Potter's broom.
+    Harry Potter's broom. I first wrote "teleport" but I want to enjoy the view during travels as well. Then I wrote "bird" but then realised it has speed limit. So a magic broom will do cause I get to control everything. 
     
 Q3: What’s your favorite holiday?
 
@@ -136,7 +136,25 @@ Q7: What’s the most embarrassing moment you’ve ever experienced?
 
     First time met this person, we were talk and walking. Out of the blue they held my hand, then I said I had to drink water. After a while, they held my hand again. We never meet again :D
 
-Q8: 
+Q8: Do you ever feel lonely?
+
+    This is another dumb question but I should answer it seriously. Yes, I feel lonely. But I'm not the only one to have this feeling. In fact, we're all lonely. We were borned alone, and we will die alone.
+    
+Q9: What’s the most meaningful relationship you’ve ever had?
+
+    With my ex-girlfriend. We were there for each other and shared too many adventures and memories for years bro. We had fights and went seperate ways. But I don't know if I could find anyone as good as (or better than) her in the future.
+
+Q10: Do you have any toxic traits you’re not proud of?
+
+    Self-centered. Rather not to change my planned schedule or "to-do list" to suit others. If I declared to do something alone, I have to do it alone. Don't come and disturb me otherwise I'll ghost you or ask you to leave.
+
+Q11: What are some difficult lessons you’ve learned from past relationships?
+
+    No matter how many good qualities a person has, it's doomed if they don't communicate openly and speak their feelings.  
+
+Q12: Do you have any tips for time management?
+
+    Easy. Just don't sleep and you'll have all the time in the world. 
     
 ![shoes](https://i.imgur.com/Ab01Crc.jpeg)
 
