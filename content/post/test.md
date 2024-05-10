@@ -68,7 +68,7 @@ Q6: Would you rather live in a cabin in the woods, a penthouse in the city, or a
     As a city girl, Penthouse 100%. Make sure they have shopping malls (with free WiFi) and supermarkets and public transports near by too.
     
 
-### Funny Questions: (from https://slideswith.com/blog/best-q-a-questions)
+### Funny Questions [(Link)](https://slideswith.com/blog/best-q-a-questions):  
 
 Q1: What emoji could you not live without?
 
@@ -106,11 +106,10 @@ Q9: What place, even if you don’t live there now, has always felt like your ho
 
     Book store or cafe that has great environment and free Wifi.
 
-### Getting to Know You Questions: (from https://www.betterup.com/blog/questions-to-ask-to-get-to-know-someone)
-
+### Getting to Know You Questions [(Link)](https://www.betterup.com/blog/questions-to-ask-to-get-to-know-someone):
 Q1: What would you choose if you had to choose one meal to eat for the rest of your life? 
 
-    Anything with potato!
+    Any recipe with potato!
 
 Q2: If you could choose a superpower, what would you pick?
 
