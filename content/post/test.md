@@ -8,6 +8,7 @@ featured: true
 
 ### Questions for Small Groups:
 Q1: What do you miss most about working in the office?
+
     Stealing snacks, and ofc the friendly colleagues.
 Q2: What’s the best piece of advice you’ve ever been given?
     "Imagine those annoying people are far away, you barely could hear them even they talked".
