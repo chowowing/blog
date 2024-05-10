@@ -2,14 +2,14 @@
 title: Q & A
 date: 2024-05-10
 tags: ["hugo","blog"]
-Description  : 
+Description  : 60 Fun Q&A Questions for Getting to Know Someone
 featured: true
 ---
 
 ### Questions for Small Groups:
 Q1: What do you miss most about working in the office?
 
-    Stealing snacks, and ofc the friendly colleagues.
+    Stealing snacks
     
 Q2: What’s the best piece of advice you’ve ever been given?
 
