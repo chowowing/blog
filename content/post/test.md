@@ -134,11 +134,11 @@ Q6: What’s the best surprise you’ve ever received?
     
 Q7: What’s the most embarrassing moment you’ve ever experienced?
 
-    First time met this person, we were talk and walking. Out of the blue they held my hand, then I said I had to drink water. After a while, they held my hand again. We never meet again :D
+    First time met this person, we were talking and walking. Out of the blue they held my hand, then I said I had to drink water. After a while, they held my hand again. We never meet again :D
 
 Q8: Do you ever feel lonely?
 
-    This is another dumb question but I should answer it seriously. Yes, I feel lonely. But I'm not the only one to have this feeling. In fact, we're all lonely. We were borned alone, and we will die alone.
+    Another dumb question, but I should answer it seriously. Yes, I feel lonely. But in fact, we were borned alone, and we will die alone.
     
 Q9: What’s the most meaningful relationship you’ve ever had?
 
@@ -146,7 +146,7 @@ Q9: What’s the most meaningful relationship you’ve ever had?
 
 Q10: Do you have any toxic traits you’re not proud of?
 
-    Self-centered. Rather not to change my planned schedule or "to-do list" to suit others. If I declared to do something alone, I have to do it alone. Don't come and disturb me otherwise I'll ghost you or ask you to leave.
+    Self-centered. Rather not to change my schedule or "to-do list" to suit others. If I declared to do something alone, I have to and will do it alone. Don't come and disturb me otherwise I'll ghost you or ask you to leave.
 
 Q11: What are some difficult lessons you’ve learned from past relationships?
 
