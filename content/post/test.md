@@ -1,12 +1,14 @@
 ---
-title: I'll die someday, I should stop caring 
+title: what now
 date: 2024-05-10
 tags: ["hugo","blog"]
-Description  : Life is daijobu
+Description  : Im daijobu.
 featured: true
 ---
 
-Not saying that I should care nothing.
+I feel like im wandering in the wild without destination, knowing what I don't want without knoing what I want.
+
+
 
 ![shoes](https://i.imgur.com/Ab01Crc.jpeg)
 
