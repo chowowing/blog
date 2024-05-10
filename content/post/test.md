@@ -2,7 +2,7 @@
 title: Q & A
 date: 2024-05-10
 tags: ["hugo","blog"]
-Description  : **Q&A Questions for Getting to Know Someone**
+Description  : Q&A Questions for Getting to Know Someone
 featured: true
 ---
 
