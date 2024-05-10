@@ -1,13 +1,13 @@
 ---
-title: We’re living in a crazy world. At least be comfortable 
-date: 2024-03-26
+title: I'll die someday, I should stop caring 
+date: 2024-05-10
 tags: ["hugo","blog"]
-Description  : "testing"
+Description  : Life is daijobu
 featured: true
 ---
 
-Spent like weeks to look for a pair of shoes, not too attention seeking but also elegant and comfortable enough (forgive my poor vocabulary and depiction). Went through Nike Sketchers Addidas New Balance etc, this is the one:
+Not saying that I should care nothing.
 
 ![shoes](https://i.imgur.com/Ab01Crc.jpeg)
 
-Speaking of attention seeking/seeker, I couldn't not recall crocs shoes: 
+
